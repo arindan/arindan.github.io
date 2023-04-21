@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "seminar.md", title: "ICWaR Seminar Series"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, "chair.icwar@iisc.ac.in"}
+  - {title: Mail, icon: envelope, [chair.icwar@iisc.ac.in](chair.icwar@iisc.ac.in)}
   - {title: Twitter, icon: twitter, url: "/feed.xml"}
 
 comments:
