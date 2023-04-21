@@ -1,3 +1,8 @@
+---
+title: "Home"
+permalink: "/home/"
+layout: page
+---
 
 ## Chairman's Message
 
