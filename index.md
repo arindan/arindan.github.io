@@ -1,7 +1,6 @@
 ---
-title: "Home"
-permalink: "/home/"
 layout: page
+title: "Home"
 ---
 
 ## Chairman's Message
