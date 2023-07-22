@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Home"
 ---
 
 # About me 
@@ -16,8 +17,8 @@ Glacier fieldwork in the Himalayan region has offered me with some of the most g
 
 **Contact / Email:** arindan.141@gmail.com; arindanm@iisc.ac.in 
 
-Background / Previous affiliations
-======
+# Background / Previous affiliations
+
 * 2023-current: NPDF, IISc, Bangalore (B. D. Vishwakarma)<br />
 * 2022-2023: Beyond Fellows Postdoctoral Researcher, TUM, Germany (J. Bamber)<br />
 * 2022-2022: IoE Postdoctoral Fellow, IISc, Bangalore (B. D. Vishwakarma)<br />
