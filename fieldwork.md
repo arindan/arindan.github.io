@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Fieldwork"
+title: "Research Fieldwork and Expedition"
 ---
 
-# Research Fieldwork and Expedition
 * Stok Glacier and Nubra Valley, Ladakh (2023, 2022, 2015, 2014)
 * Chhota Shigri Glacier, Himachal Pradesh (since 2012, > 10 times)
 * Patsio Glacier, Himachal Pradesh (since 2014, several times)
