@@ -3,11 +3,4 @@ layout: page
 title: "CV"
 ---
 
-{% include base_path %}
-
-<div id="pdf-container"></div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.5/pdfobject.min.js"></script>
-<script>
-  PDFObject.embed("https://github.com/arindan/icwar/raw/master/assets/Mandal_CV_6_Mar_2023.pdf", "#pdf-container");
-</script>
+<iframe src="https://docs.google.com/gview?url=https://github.com/arindan/icwar/raw/master/assets/Mandal_CV_6_Mar_2023.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
