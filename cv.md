@@ -5,4 +5,9 @@ title: "CV"
 
 {% include base_path %}
 
-<iframe src="https://drive.google.com/file/d/1AIJvulZD00T2watUAEV-CzNS5VqL130S/preview" type="application/pdf" width="100%" height="640dip"></iframe>
+<div id="pdf-container"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.5/pdfobject.min.js"></script>
+<script>
+  PDFObject.embed("https://github.com/arindan/icwar/raw/master/assets/Mandal_CV_6_Mar_2023.pdf", "#pdf-container");
+</script>
