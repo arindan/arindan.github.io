@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Coding resources"
+title: "Resources"
 ---
 
 
