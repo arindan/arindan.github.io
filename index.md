@@ -2,9 +2,6 @@
 layout: page
 ---
 
-About me
-======
-
 ![img](/images/Mandal-removebg-preview.jpg){: width="200" height="200" style="float: right;margin-right: 7px;margin-top: 7px;margin-left: 15px"}
 
 Hi! I'm Arindan. Thank you for visiting my webpage. 
