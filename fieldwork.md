@@ -12,7 +12,7 @@ title: "Fieldwork"
 
 ## Stok Glacier (June 2023)
 <span style="font-size: 15px;">**Summary and experience:** Four of us (me, Bramha, Codrut, and Jasmeet) successfully conducted fieldwork with the main objective of measuring the winter mass balance of the Stok Glacier in Leh. Additionally, we downloaded and maintained weather loggers around the Leh and Nubra Valleys. During our approach to the glacier, we encountered a surprisingly high snow depth (see the last photo below). On average, we measured about 100 cm of snow thickness at several locations on the glacier, which was unprecedented given the typically low-precipitation regime in and around Leh. </span>
-<span style="font-size: 14px;">**Photo credit:** Codrut Diaconu.</span>
+<span style="font-size: 15px;">**Photo credit:** Codrut Diaconu.</span>
 
 <div style="display: flex;">
   <div style="flex: 50%; padding: 5px;">
