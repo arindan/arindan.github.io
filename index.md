@@ -3,26 +3,27 @@ layout: page
 title: "Home"
 ---
 
-## Chairman's Message
-## Poornima
+About me
+======
 
-![img](/assets/Dr_PRamamurthy_photo.jpg){: width="100" height="100" style="float: right;margin-right: 7px;margin-top: 7px;margin-left: 15px"}
+![img](/images/Mandal-removebg-preview.jpg){: width="100" height="100" style="float: right;margin-right: 7px;margin-top: 7px;margin-left: 15px"}
 
-Welcome to the webpage of The Interdisciplinary Centre for Water Research (ICWaR). Over the past several decades, the Institute has made significant contributions in the areas related to water science and technology, both at the large river basin scales and at the small urban watershed scales. There is a significant multi-disciplinary strength available in the Institute to address a large number of critical issues related to water and make notable research contributions while simultaneously providing implementable solutions to problems related to water resources in the country. ICWaR at the Institute is set up with an aim to address water-related issues that have formidable scientific challenges and more importantly, considerable practical relevance. A major objective of this centre is to develop tools and templates using state-of–the-art sensor-communication, satellite information- and nano-technologies to provide implementable solutions to the water problems faced by the society with respect to climate change, water demand, water quality, extremes of floods and droughts, and salinity intrusion in coastal aquifers. Within a short period of time, the centre has made high-impact research contributions in the area of water resources at regional and global levels. At present, the centre is offering PhD and M.Tech (Res) degrees in addition to mentoring postdocs and research staff. Additionally, the centre has been hosting monsoon schools since 2014 to inspire the next-generation water scientists to take up challenging problems in the water sector. The ICWaR Seminar Series is a flagship event of the centre in which seminars by eminent scintists, researchers and policy makers are arranged every month. The centre will continue facilitating knowledge transfer through annual workshops, monsoon schools, monthly seminar series, and national/international conferences. The centre is well-positioned to take up challenging problems the humanity is facing today in the water sector and provide technology-based solutions while advancing the scientific knowledge.
+Hi! I'm Arindan. Thank you for visiting my webpage. 
 
-**Dr. Praveen C Ramamurthy, Chairman**
+I study glaciers and climate in the Himalayan region. Currently, I am a Postdoctoral Fellow at the [Indian Institute of Science](http://www.icwar.iisc.ac.in/), Bangalore. I have a PhD degree in Glaciology/Environmental Sciences from [Jawaharlal Nehru University](https://www.jnu.ac.in/ses), New Delhi, where I studied how local meteorology influences glacier mass balance.
 
-## Vision and Mission
+One of my favourite topics is the surface energy interaction of glacier, snow, or debris surfaces and atmospheric drivers of glacier mass balance. I am particularly curious about how turbulent heat fluxes modulate glacier surface mass balance in the dry-arid Himalayan region, such as Ladakh and Karakoram.
 
-The mission of ICWaR, is to be a global leader in providing integrated solutions for Water Hazard and Risk Management/Risk Reduction to improve the quality of life of the Communities.
+Glacier fieldwork in the Himalayan region has offered me with some of the most gorgeous landscapes of the nature, mountain communities, and cultures. Thus, I love going to the mountains and experiencing the extremes of mountain life. I also enjoy playing badminton. 
 
-Our vision is to provide advanced science and technology solutions to the critical issues related to urban floods, riverine floods, water pollution, climate change impacts, and integrated water resources management at different levels with a multi-disciplinary approach, through;
+**Contact / Email:** arindan.141@gmail.com; arindanm@iisc.ac.in 
 
-* Assisting government organizations, the public sector and communities in battling the climate change impact on water resources.
-* Developing efficient and affordable water remediation techniques to ensure adequate clean drinking water.
-* Becoming a global leader in water research, by creating an interdisciplinary research environment and training next-generation water scientists.
-* Providing state of the art solutions to complex problems in water research such as urban floods, contamination due to heavy metals and watershed management by developing science-based technological solutions.
-
-
-## Me, Sai and Poornima is developing our ICWaR Website.
-
+Background / Previous affiliations
+======
+* 2023-current: NPDF, IISc, Bangalore (B. D. Vishwakarma)<br />
+* 2022-2023: Beyond Fellow Postdoctoral Researcher, TUM, Germany (J Bamber)<br />
+* 2022-2022: IoE Postdoctoral Fellow, IISc, Bangalore (B. D. Vishwakarma)<br />
+* 2016-2022: PhD in Environmental Sci. (Glaciology), JNU, New Delhi (AL. Ramanathan)<br />
+* 2017-2018: 1-Year DAAD PhD Student (Glaciology), FAU, Erlangen-Germany (M. Braun)<br />
+* 2014-2016: MPhil in Environmental Sci., JNU, New Delhi (AL. Ramanathan)<br />
+* 2011-2013: MSc in Environmental Sci., JNU, New Delhi
