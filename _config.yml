@@ -25,8 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:arindanm@iisc.ac.in"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Arindangoforit"}
-  - {title: GitHub, icon: twitter, url: "https://github.com/arindan"}
-  - {title: orcid, icon: twitter, url: "https://orcid.org/0000-0003-1616-6032"}
+  - {title: GitHub, icon: github, url: "https://github.com/arindan"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-1616-6032"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
