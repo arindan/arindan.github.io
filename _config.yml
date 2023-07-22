@@ -20,10 +20,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "CV"}
   - {file: "publications.md", title: "Publications"}
   - {file: "fieldwork.md", title: "Fieldwork"}
+  - {file: "resources.md", title: "Coding resources"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:arindanm@iisc.ac.in"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Arindangoforit"}
+  - {title: GitHub, icon: twitter, url: "https://github.com/arindan"}
+  - {title: orcid, icon: twitter, url: "https://orcid.org/0000-0003-1616-6032"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
