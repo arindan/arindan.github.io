@@ -1,4 +1,7 @@
-# Publications
+---
+layout: page
+title: "Publications"
+---
 
 (Last updated on 26/09/2022)  
 [ORCID](https://orcid.org/0000-0003-1616-6032)   
