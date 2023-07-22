@@ -3,17 +3,10 @@ layout: page
 title: "Publications"
 ---
 
-(Last updated on 26/09/2022)  
+(Last updated on 22/07/2023)  
 [ORCID](https://orcid.org/0000-0003-1616-6032)   
 [Google Scholar](https://scholar.google.com/citations?user=KFVC4LEAAAAJ&hl=en)  
 Please feel free to contact me if you need a copy.
-
-## Preprints
-
-No  | Author(s) | Year | Title | _Journal_ | Link
-:--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-1 | Vatsal, S., Bhardwaj, A., Azam, M. F., **Mandal, A.,** Ramanathan, A. L., Bahuguna, I, Raju, N. J., Tomar, S. S. | 2022 | A comprehensive multidecadal glacier inventory dataset for the Chandra-Bhaga Basin, Western Himalaya, India | _Earth Syst. Sci. Data Discuss._ |  [DOI](https://essd.copernicus.org/preprints/essd-2022-311/)
-
 
 ## Journal Articles
 
@@ -50,6 +43,13 @@ No  | Author(s) | Year | Title | Repository | Link
 :--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
 1 | **Mandal, A.,** Angchuk, T., Azam, M. F., Ramanathan, A., Wagnon, P., Soheb, M., and Singh, C. | 2022 | Codes used in '11-year record of wintertime snow surface energy balance and sublimation at 4863 m a.s.l. on Chhota Shigri Glacier moraine (western Himalaya, India)' | _Zenodo <br/> GitHub_ |  [Zenodo](https://doi.org/10.5281/zenodo.6804947) <br/> [GitHub](https://github.com/arindan/Winter-sublimation-at-the-Chhota-Shigri-Glacier-India/tree/1.0)
 2 | Vatsal, S., Bhardwaj, A., Azam, M. F., **Mandal, A.,** Ramanathan, A. L., Bahuguna, I, Raju, N. J., Tomar, S. S. | 2022 | Glacier inventory, debris cover and ice thickness datasets of Chandra Bhaga Basin, Western Himalaya | _Zenodo_ |  [Zenodo](https://doi.org/10.5281/zenodo.6595546)
+
+
+## Preprints
+
+No  | Author(s) | Year | Title | _Journal_ | Link
+:--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
+1 | Vatsal, S., Bhardwaj, A., Azam, M. F., **Mandal, A.,** Ramanathan, A. L., Bahuguna, I, Raju, N. J., Tomar, S. S. | 2022 | A comprehensive multidecadal glacier inventory dataset for the Chandra-Bhaga Basin, Western Himalaya, India | _Earth Syst. Sci. Data Discuss._ |  [DOI](https://essd.copernicus.org/preprints/essd-2022-311/)
 
 
 ## Book/Volume/Chapters
