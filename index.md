@@ -19,10 +19,10 @@ Glacier fieldwork in the Himalayan region has offered me with some of the most g
 
 # Background / Previous affiliations
 
-* 2023-current: NPDF, IISc, Bangalore (B. D. Vishwakarma)<br />
-* 2022-2023: Beyond Fellows Postdoctoral Researcher, TUM, Germany (J. Bamber)<br />
+* 2023-current: NPDF, [IISc](http://www.icwar.iisc.ac.in/), Bangalore (B. D. Vishwakarma)<br />
+* 2022-2023: Beyond Fellows Postdoctoral Researcher, [TUM](https://ai4eo.de/our-team), Germany (J. Bamber)<br />
 * 2022-2022: IoE Postdoctoral Fellow, IISc, Bangalore (B. D. Vishwakarma)<br />
-* 2016-2022: PhD in Environmental Sci. (Glaciology), JNU, New Delhi (AL. Ramanathan)<br />
-* 2017-2018: 1-Year DAAD PhD Student (Glaciology), FAU, Erlangen-Germany (M. Braun)<br />
+* 2016-2022: PhD in Environmental Sci. (Glaciology), [JNU](https://www.jnu.ac.in/ses), New Delhi (AL. Ramanathan)<br />
+* 2017-2018: 1-Year DAAD PhD Student (Glaciology), [FAU](https://www.geography.nat.fau.eu/), Erlangen-Germany (M. Braun)<br />
 * 2014-2016: MPhil in Environmental Sci., JNU, New Delhi (AL. Ramanathan)<br />
 * 2011-2013: MSc in Environmental Sci., JNU, New Delhi
