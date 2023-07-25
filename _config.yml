@@ -18,11 +18,11 @@ minimal: true               # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "cv.md", title: "CV"}
-  - {file: "publications.md", title: "Publications"}
+  - {file: "publications.md", title: "Publication"}
   - {file: "fieldwork.md", title: "Fieldwork"}
-  - {file: "posts.md", title: "Posts"}
+  - {file: "posts.md", title: "Post"}
   - {file: "HMA_MB_Tracker.md", title: "HMA GMB Tracker"}
-  - {file: "resources.md", title: "Resources"}
+  - {file: "resources.md", title: "Resource"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:arindanm@iisc.ac.in"}
