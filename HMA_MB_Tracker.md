@@ -4,9 +4,9 @@ title: "HMA Glacier Mass Balance (GMB) Tracker"
 ---
 
 **NOTE:** <br />
-The location of the monitored glaciers are shown in the map below. <br />
-Glacier mass balance time series (collected and curated from the original source) can be explored using the plot below. <br />
-You can interact with the plot by selecting different glaciers from the dropdown menu. <br />
+1. The location of the monitored glaciers are shown in the map below. <br />
+2. Annual mass balance time series (collected and curated from the original sources) can be explored using the plot below. <br />
+2. You can interact with the plot by selecting different glaciers from the dropdown menu. <br />
 
 <img src="/assets/HMA_GMB_Tracker/HMA_GMB_Tracker.jpg" width="100%" />
   
