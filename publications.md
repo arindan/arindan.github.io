@@ -51,7 +51,7 @@ No  | Author(s) | Year | Title | Repository | Link
 
 No  | Author(s) | Year | Title | _Journal_ | Link
 :--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-1 | Vatsal, S., Bhardwaj, A., Azam, M. F., **Mandal, A.,** Ramanathan, A. L., Bahuguna, I, Raju, N. J., Tomar, S. S. | 2022 | A comprehensive multidecadal glacier inventory dataset for the Chandra-Bhaga Basin, Western Himalaya, India | _Earth Syst. Sci. Data Discuss._ |  [DOI](https://essd.copernicus.org/preprints/essd-2022-311/)
+1 | Azam, M. F., Vincent, C., Srivastava, S., Berthier, E., Wagnon, P., Kaushik, H., Hussain, A., Munda, M. K., **Mandal, A.**, and Ramanathan, A. | 2024 | Reanalysis of the longest mass balance series in Himalaya using nonlinear model: Chhota Shigri Glacier (India) | _EGUsphere [preprint]_ |  [DOI](https://doi.org/10.5194/egusphere-2024-644)
 
 
 ## Book/Volume/Chapters
@@ -65,6 +65,7 @@ No | Author(s) | Year | Chapter Title |  _Book Title_  | Editors  | Publisher | 
 
 No | Author(s) | Year/Date | Title |  Conference  | Place | Talk/Poster
 :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :--------------------------: |-----
+9  | **Mandal, A**., Bhardwaj, A., Azam, M. F., Vishwakarma, B. D., and Angchuk, T. | 14-19 April, 2024 | Increased up-glacier thinning in four major glaciers of High Mountain Asia revealed by geodetic mass balance estimates | _EGU General Assembly 2024, Vienna_ | Vienna, Austria | Oral
 8  | **Mandal, A**., Vishwakarma, B. D., Angchuk, T., Azam, M. F., Garg, P. K., Soheb, M. | 23-28 April, 2023 | Glacier mass balance and its climatic and non-climatic drivers in the Ladakh region during 2000-2021 from remote sensing data | _EGU General Assembly 2023, Vienna_ | Vienna, Austria | Poster
 7  | Singh, C., **Mandal, A**., Soheb, M., Sharma, P. | 11-15 Sep, 2022 | Latent heat flux controls wintertime energy balance of snow surface in high altitude Lato catchment of Ladakh region, India | _International Mountain Conference 2022, Innsbruck_ | Virtual | Contributing author
 6  | **Mandal, A**., Angchuk, T., Azam, M. F., Ramanathan, A. L., Wagnon, P., Soheb, M., Singh, C. | 23-27 May, 2022 | Surface energy balance and sublimation of the winter snow cover at 4863 m a.s.l. on Chhota Shigri Glacier moraine (western Himalaya, India) between 2009 and 2020 | _EGU General Assembly 2022, Vienna_ | Virtual | Talk
