@@ -58,6 +58,7 @@ No  | Author(s) | Year | Title | _Journal_ | Link
 
 No | Author(s) | Year | Chapter Title |  _Book Title_  | Editors  | Publisher | Link
 :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: | ----------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------
+2  | Shamurailatpam, M. S., **Mandal, A**., Ramanathan A. L. | 2024 |  Impact of Climate Change and Human Influence on the Sediment Yield of Indian Himalayan Rivers | _Handbook of Climate Change Impacts on River Basin Management_ | Eslamian, S., Huda, M.B., Rather, N.A., & Eslamian, F.A. (Eds.). | CRC Press | [DOI](https://doi.org/10.1201/9781003473398)
 1  | Paul, Frank; Ramanathan, A L; **Mandal, Arindan**. | 2017 | Ice caps  | _The International Encyclopedia of Geography : People, The Earth, Environment, and Technology_ | Richardson, Douglas; Castree, Noel; Goodchild, Michael F; Kobayashi, Audrey; Liu, Weidong; Marston, Richard A | John Wiley | [DOI](https://doi.org/10.1002/9781118786352.wbieg0210)
 
 
