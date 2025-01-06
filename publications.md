@@ -12,7 +12,7 @@ Please feel free to contact me if you need a copy.
 
 No  | Author(s) | Year | Title | _Journal_ | Link
 :--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-| | **[2022]** | | |
+| | **[2025]** | | |
 21 | Vatsal, S., Azam, M. F., Bhardwaj, A., **Mandal, A.,** Ramsankaran, RAAJ., Soheb, M., Kutty, S. G., Singh, C., Mishra, S., Ramanathan, A. L., Bahuguna, I. M., Joshi, P., Raju, N. J. | 2025 | Understanding the point mass balance and surface ice velocity for the debris-covered glacier, Panchi II, western Himalaya (India) | _Results in Earth Sciences_ | [DOI](https://doi.org/10.1016/j.rines.2024.100058)
 20 | Azam, M. F., Hussain, M. A., Kaushik, H., Srivastava, S., Munda, M. K., **Mandal, A.**, Bahuguna, I. M., Singh, S. K., Jawad, M. | 2025 | Initial glaciological investigations on a large Himalayan glacier: Drang Drung (Zanskar, Ladakh, India) | _Journal of Glaciology_ | [DOI](https://doi.org/10.1017/jog.2024.102)
 | | **[2024]** | | |
