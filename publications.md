@@ -56,7 +56,7 @@ No  | Author(s) | Year | Title | Repository | Link
 
 No  | Author(s) | Year | Title | _Journal_ | Link
 :--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-1 | Azam, M. F., Vincent, C., Srivastava, S., Berthier, E., Wagnon, P., Kaushik, H., Hussain, A., Munda, M. K., **Mandal, A.**, and Ramanathan, A. | 2024 | Reanalysis of the longest mass balance series in Himalaya using nonlinear model: Chhota Shigri Glacier (India) | _EGUsphere [preprint]_ |  [DOI](https://doi.org/10.5194/egusphere-2024-644)
+1 | Harrison, S., Racoviteanu, A., Shannon, S., Jones, D., Anderson, K., Glasser, N., Knight, J., Ranger, A., **Mandal, A.,** Vishwakarma, B D., Kargel, J., Shugar, D., Haritishaya, U., Li, D., Koutroulis, A., Wyser, K., Inglis, S.  | 2025 | Will landscape responses reduce glacier sensitivity to climate change in High Mountain Asia?  | _EGUsphere [preprint]_ |  [DOI](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-4033/)
 
 
 ## Book/Volume/Chapters
