@@ -17,7 +17,7 @@ title: "HMA Glacier Mass Balance (GMB) Tracker"
 [Vishwakarma et al., 2022](https://www.frontiersin.org/articles/10.3389/frwa.2022.909246);
 [Azam et al., 2018](https://doi.org/10.1017/jog.2017.86)
 
-*Last updated on: 25 July 2023* <br />
+*Last updated on: 5 February 2025* <br />
 *The page was created with the help of: 
 [Python](https://www.python.org/);
 [Geopandas](https://geopandas.org/en/stable/);
