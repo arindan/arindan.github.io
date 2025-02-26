@@ -9,7 +9,7 @@ title: "Home"
 
 Hi! I'm Arindan. Thank you for visiting my webpage. 
 
-I study glaciers and climate in the Himalayan region. Currently, I am a Postdoctoral Fellow at the [Indian Institute of Science](http://www.icwar.iisc.ac.in/), Bangalore. I have a PhD degree in Glaciology (Environmental Sciences) from [Jawaharlal Nehru University](https://www.jnu.ac.in/ses), New Delhi, where I studied how local meteorology influences glacier mass balance.
+I study glaciers and climate in the Himalayan region. Currently, I am a Postdoctoral Researcher at the [Indian Institute of Science](http://www.icwar.iisc.ac.in/), Bangalore. I have a PhD degree in Glaciology (Environmental Sciences) from Jawaharlal Nehru University, New Delhi, where I studied how local meteorology influences glacier mass balance.
 
 One of my favourite topics is the surface energy interaction of glacier, snow, or debris surfaces and atmospheric drivers of glacier mass balance. I am particularly curious about how turbulent heat fluxes modulate glacier surface mass balance in the dry-arid Himalayan region, such as Ladakh and Karakoram.
 
