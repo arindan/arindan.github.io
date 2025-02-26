@@ -17,7 +17,7 @@ Glacier fieldwork in the Himalayan region has offered me with some of the most g
 
 I have maintain a [glacier mass balance tracker](https://arindan.github.io/HMA_MB_Tracker/) that covers nearly all monitored glaciers in High Mountain Asia (HMA). This tracker allows users to explore the locations of these glaciers in HMA and interactively visualize their mass balance time series.
 
-**Contact / Email:** arindan.141@gmail.com; arindanm@iisc.ac.in 
+**Email:** arindan.141@gmail.com; arindanm@iisc.ac.in 
 
 # Background / Previous affiliations
 
