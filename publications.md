@@ -44,19 +44,19 @@ No  | Author(s) | Year | Title | _Journal_ | Link
  | | **[2014]** | | |
 1 | Azam, M. F., Wagnon, P., Vincent, C., Ramanathan, A. L., Favier, V., **Mandal, A.**, Pottakkal, J. G. | 2014 | Processes governing the mass balance of Chhota Shigri Glacier (Western Himalaya, India) assessed by point-scale surface energy balance measurements | _The Cryosphere_ | [DOI](https://doi.org/10.5194/tc-8-2195-2014)
 
+## Preprints
+
+No  | Author(s) | Year | Title | _Journal_ | Link
+:--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
+1 | Harrison, S., Racoviteanu, A., Shannon, S., Jones, D., Anderson, K., Glasser, N., Knight, J., Ranger, A., **Mandal, A.,** Vishwakarma, B D., Kargel, J., Shugar, D., Haritishaya, U., Li, D., Koutroulis, A., Wyser, K., Inglis, S.  | 2025 | Will landscape responses reduce glacier sensitivity to climate change in High Mountain Asia?  | _EGUsphere [preprint]_ |  [DOI](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-4033/)
+
+
 ## Open Code and Data
 
 No  | Author(s) | Year | Title | Repository | Link
 :--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
 1 | **Mandal, A.,** Angchuk, T., Azam, M. F., Ramanathan, A., Wagnon, P., Soheb, M., and Singh, C. | 2022 | Codes used in '11-year record of wintertime snow surface energy balance and sublimation at 4863 m a.s.l. on Chhota Shigri Glacier moraine (western Himalaya, India)' | _Zenodo <br/> GitHub_ |  [Zenodo](https://doi.org/10.5281/zenodo.6804947) <br/> [GitHub](https://github.com/arindan/Winter-sublimation-at-the-Chhota-Shigri-Glacier-India/tree/1.0)
 2 | Vatsal, S., Bhardwaj, A., Azam, M. F., **Mandal, A.,** Ramanathan, A. L., Bahuguna, I, Raju, N. J., Tomar, S. S. | 2022 | Glacier inventory, debris cover and ice thickness datasets of Chandra Bhaga Basin, Western Himalaya | _Zenodo_ |  [Zenodo](https://doi.org/10.5281/zenodo.6595546)
-
-
-## Preprints
-
-No  | Author(s) | Year | Title | _Journal_ | Link
-:--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-1 | Harrison, S., Racoviteanu, A., Shannon, S., Jones, D., Anderson, K., Glasser, N., Knight, J., Ranger, A., **Mandal, A.,** Vishwakarma, B D., Kargel, J., Shugar, D., Haritishaya, U., Li, D., Koutroulis, A., Wyser, K., Inglis, S.  | 2025 | Will landscape responses reduce glacier sensitivity to climate change in High Mountain Asia?  | _EGUsphere [preprint]_ |  [DOI](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-4033/)
 
 
 ## Book/Volume/Chapters
