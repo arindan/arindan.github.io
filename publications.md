@@ -8,6 +8,14 @@ title: "Publications"
 [Google Scholar](https://scholar.google.com/citations?user=KFVC4LEAAAAJ&hl=en)  
 Please feel free to contact me if you need a copy.
 
+## Preprints
+
+No  | Author(s) | Year | Title | _Journal_ | Link
+:--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
+2 | Sauter, T., Brock, B.W., Collier, E., Georgi, A., Goger, B., Groos, A.R., Haualand, K.F., Haugeneder, M., **Mandal, A.**, Mott, R., Nicholson, L., Prinz, R., Reynolds, D., Saigger, M., Shaw, T.E., Sicart, J.E., Stiperski, S., Voordendag, A. | 2025 | Glacier-Atmosphere Interactions and Feedbacks in High-Mountain Regions - A Review  | _ESS Open Archive [preprint]_ |  [DOI](https://doi.org/10.22541/essoar.174164160.03475851/v1)
+1 | Harrison, S., Racoviteanu, A., Shannon, S., Jones, D., Anderson, K., Glasser, N., Knight, J., Ranger, A., **Mandal, A.,** Vishwakarma, B D., Kargel, J., Shugar, D., Haritishaya, U., Li, D., Koutroulis, A., Wyser, K., Inglis, S.  | 2025 | Will landscape responses reduce glacier sensitivity to climate change in High Mountain Asia?  | _EGUsphere [preprint]_ |  [DOI](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-4033/)
+
+
 ## Journal Articles
 
 No  | Author(s) | Year | Title | _Journal_ | Link
@@ -43,12 +51,6 @@ No  | Author(s) | Year | Title | _Journal_ | Link
 2 | Soheb, M., Ramanathan, A. L., Pandey, P., **Mandal, A.** | 2015 | Climate Change from Himalayan Glaciers' Perspective—Case Studies from India | _Journal of Climate Change_ | [DOI](http://dx.doi.org/10.3233/JCC-150002)
  | | **[2014]** | | |
 1 | Azam, M. F., Wagnon, P., Vincent, C., Ramanathan, A. L., Favier, V., **Mandal, A.**, Pottakkal, J. G. | 2014 | Processes governing the mass balance of Chhota Shigri Glacier (Western Himalaya, India) assessed by point-scale surface energy balance measurements | _The Cryosphere_ | [DOI](https://doi.org/10.5194/tc-8-2195-2014)
-
-## Preprints
-
-No  | Author(s) | Year | Title | _Journal_ | Link
-:--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-1 | Harrison, S., Racoviteanu, A., Shannon, S., Jones, D., Anderson, K., Glasser, N., Knight, J., Ranger, A., **Mandal, A.,** Vishwakarma, B D., Kargel, J., Shugar, D., Haritishaya, U., Li, D., Koutroulis, A., Wyser, K., Inglis, S.  | 2025 | Will landscape responses reduce glacier sensitivity to climate change in High Mountain Asia?  | _EGUsphere [preprint]_ |  [DOI](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-4033/)
 
 
 ## Open Code and Data
