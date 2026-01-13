@@ -6,7 +6,7 @@ title: "Publications"
 (Last updated on 22/03/2024)  
 [ORCID](https://orcid.org/0000-0003-1616-6032)   
 [Google Scholar](https://scholar.google.com/citations?user=KFVC4LEAAAAJ&hl=en)  
-Please feel free to contact me if you need a copy.
+Please feel free to contact me if you need a PDF copy of any of these publications.
 
 ## Preprints
 
