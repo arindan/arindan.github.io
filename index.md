@@ -15,7 +15,7 @@ I maintain a [glacier mass balance tracker](https://arindan.github.io/HMA_MB_Tra
 
 **Email:** arindan.141@gmail.com
 
-# Background / Previous affiliations
+# Affiliations
 
 * 2025 - now : Postdoctoral researcher, Umeå University, Sweden
 * 2023 - 2024: NPDF, Indian Institute of Science, Bangalore <br />
