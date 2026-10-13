@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Field research sites, instruments, and tools.
+description: research sites, instruments, and tools
 nav: true
 nav_order: 2
 ---
@@ -20,32 +20,32 @@ nav_order: 2
 <div class="row">
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/IMG_5299.JPG">
-      <img src="/arindan-test/assets/img/research/IMG_5299.JPG"
+    <a href="/assets/img/research/IMG_5299.JPG">
+      <img src="/assets/img/research/IMG_5299.JPG"
            class="img-fluid rounded"
            alt="AWS on the Stok Glacier">
     </a>
   </div>
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/IMG_4672.JPG">
-      <img src="/arindan-test/assets/img/research/IMG_4672.JPG"
+    <a href="/assets/img/research/IMG_4672.JPG">
+      <img src="/assets/img/research/IMG_4672.JPG"
            class="img-fluid rounded"
            alt="Field research site 2">
     </a>
   </div>
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/IMG_4637.JPG">
-      <img src="/arindan-test/assets/img/research/IMG_4637.JPG"
+    <a href="/assets/img/research/IMG_4637.JPG">
+      <img src="/assets/img/research/IMG_4637.JPG"
            class="img-fluid rounded"
            alt="Field research site 3">
     </a>
   </div>
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/IMG_2031.JPEG">
-      <img src="/arindan-test/assets/img/research/IMG_2031.JPEG"
+    <a href="/assets/img/research/IMG_2031.JPEG">
+      <img src="/assets/img/research/IMG_2031.JPEG"
            class="img-fluid rounded"
            alt="Field research site 4">
     </a>
