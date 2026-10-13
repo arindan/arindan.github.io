@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arindan.github.io/arindan-test/sitemap.xml
+Sitemap: https://arindan.github.io/sitemap.xml
