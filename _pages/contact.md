@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-Please contact me if you would like to know more about our research, discuss any project ideas or available positions.
+Please contact me if you would like to know more about our research, discuss any project ideas or positions.
 
 **Office address:**  
 Department of Climate Change  
