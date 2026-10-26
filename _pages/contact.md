@@ -2,7 +2,6 @@
 layout: page
 title: contact
 permalink: /contact/
-description: Contact information and institutional address.
 nav: true
 nav_order: 4
 ---
