@@ -44,8 +44,24 @@ nav_order: 2
   </div>
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/assets/img/research/IMG_2031.JPEG">
-      <img src="/assets/img/research/IMG_2031.JPEG"
+    <a href="/assets/img/research/IMG_5755.JPEG">
+      <img src="/assets/img/research/IMG_5755.JPEG"
+           class="img-fluid rounded"
+           alt="Field research site 4">
+    </a>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <a href="/assets/img/research/IMG_5749.JPEG">
+      <img src="/assets/img/research/IMG_5749.JPEG"
+           class="img-fluid rounded"
+           alt="Field research site 4">
+    </a>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <a href="/assets/img/research/IMG_5697.JPEG">
+      <img src="/assets/img/research/IMG_5697.JPEG"
            class="img-fluid rounded"
            alt="Field research site 4">
     </a>
